@@ -29,7 +29,7 @@
   "dependencies": {
     "@angular-devkit/core": "^0.6.1",
     "@angular-devkit/schematics": "^0.6.1",
-    "@angular-toolkit/_utils": "^1.0.0",
+    "@angular-toolkit/_utils": "^2.0.0",
     "@schematics/angular": "^0.6.1"
   },
   "devDependencies": {
